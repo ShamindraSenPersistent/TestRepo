@@ -4,4 +4,8 @@ This is edit3 by master for 2nd commit
 
 this is edit 2 by bug1
 
-this is a edit by master to demonstrate 3 way merging
+
+this is a edit by master and bug2 to demonstrate 3 way merging after resolving conflict.
+
+
+
