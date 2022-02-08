@@ -1,3 +1,5 @@
 Hello There||
 
 This is edit3 by master for 2nd commit
+
+this is edit 2 by bug1
