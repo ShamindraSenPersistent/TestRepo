@@ -9,6 +9,7 @@ this is a edit by master and bug2 to demonstrate 3 way merging after resolving c
 
 this is a change on remote GITHUB
 
+this is an update by local master to be pushed to remote
 
 this is an edit by bug3 to demonstrate rebase.
 
