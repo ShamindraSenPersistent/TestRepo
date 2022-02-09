@@ -7,7 +7,7 @@ this is edit 2 by bug1
 
 this is a edit by master and bug2 to demonstrate 3 way merging after resolving conflict.
 
-
+this is a change on remote GITHUB
 
 
 this is an edit by bug3 to demonstrate rebase.
